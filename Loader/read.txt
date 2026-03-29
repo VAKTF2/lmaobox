@@ -1,0 +1,10 @@
+//Create your own folders, if you want to replicate the files exactly.
+
+InjectionLibrary
+  InjectionMethod.cs
+JLibrary.Win32
+  Win32Ptr.cs
+  WinAPI.cs
+LMAOBOXLOADER
+  FormA.cs
+  Program.cs (?)
